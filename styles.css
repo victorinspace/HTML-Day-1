@@ -1,0 +1,30 @@
+/*body styles*/
+body {
+	background-color: #ccff99;
+	font-family: sans-serif;
+}
+a {
+	text-decoration: none;
+}
+
+/*list properties*/
+#directions {
+	border-width: 5px;
+	border-color: red;
+}
+ol.steps {
+	font-weight: bold;
+	color: blue;
+}
+ul li {
+	font-weight: bold;
+	color: black;
+}
+
+/*octocat image*/
+#github-octocat {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
