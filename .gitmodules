@@ -1,0 +1,3 @@
+[submodule "git@github.com:victorinspace/HTML-Day-1.git"]
+	path = git@github.com:victorinspace/HTML-Day-1.git
+	url = git@github.com:victorinspace/broken-project.git
